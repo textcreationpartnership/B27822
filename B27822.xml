@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The papists lamentation for the loss of their agent William Viscount Stafford together with the dread they are possessed with, fearing that more will quickly follow him the same way. Preparations will be made for those that cursed plots have laid, for to be brought to tryal fair, and now they'r filled with dispair tune of, Fair Phillis your prevailing charms, or A fig for France.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27822</idno><idno type="EEBO-CITATION">99827808</idno>
+  <idno type="VID">198005</idno>
+  <idno type="EEBO-PROQUEST">2248495761</idno>
+  
+            <idno type="STC">Wing P315</idno>
+            <idno type="PROQUEST">99827808</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827808e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198005)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21232:76-77)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The papists lamentation for the loss of their agent William Viscount Stafford together with the dread they are possessed with, fearing that more will quickly follow him the same way. Preparations will be made for those that cursed plots have laid, for to be brought to tryal fair, and now they'r filled with dispair tune of, Fair Phillis your prevailing charms, or A fig for France.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Conyers at the black Ravenin [sic] Duck-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Verse -"Lament, lament you saints of Rome,".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Stafford, William Howard, --  Viscount, 1614-1680 --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="topical_term">Popish Plot, 1678 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:198005:1"/>
+            <head>
+               <hi>The Papists Lamentation for the loss of their Agent <hi>William Viscount Stafford,</hi> together with the dread they are possessed with, fearing that more will quickly follow him the same way.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <lg>
+                     <l>Preparations will be made</l>
+                     <l>For those that cursed Plots have laid,</l>
+                     <l>For to be brought to Tryal fair,</l>
+                     <l>And now they'r filled with dispair</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <opener>Tune of, Fair Phillis your prevailing charms, or A Fig for France.</opener>
+            <p>
+               <figure>
+                  <figDesc>man holding a cross</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>six men seated around a table; a seventh man stands behind it, holding a (olive? palm?) branch</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>LAment, lament you Saints of <hi>Rome,</hi>
+               </l>
+               <l>Since <hi>Stafford</hi> hath receiv'd his doom,</l>
+               <l>And we poor Souls are left behind</l>
+               <l>Perplext and troubled in the mind,</l>
+               <l>We sée that God did strangly blast,</l>
+               <l>And brought to light your Plot at last.</l>
+               <l>
+                  <hi>Sure 'tis he hates such horrid things</hi>
+               </l>
+               <l>
+                  <hi>As Massacres, and killing Kings.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Let us lament his Rigid Fate,</l>
+               <l>Wl, o for <hi>Rome's</hi> cause we know of late</l>
+               <l>Did like a stubborn Papist dye</l>
+               <l>In hopes to live eternally,</l>
+               <l>But in our Consciences we know</l>
+               <l>It is unlikely to be so,</l>
+               <l>
+                  <hi>For God doth hate such bloody things</hi>
+               </l>
+               <l>
+                  <hi>As Massacres,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Some others daily we Expect,</l>
+               <l>That took such courses indirect,</l>
+               <l>Must follow him the self same way,</l>
+               <l>And on the Block their Heads must lay,</l>
+               <l>But if impartially we speak,</l>
+               <l>The Devil did their ruine séek,</l>
+               <l>
+                  <hi>For God doth hate such bloody things</hi>
+               </l>
+               <l>
+                  <hi>As Massacres,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>See how the Stratagems of <hi>Rome,</hi>
+               </l>
+               <l>Have wrought these bloody Actors doom,</l>
+               <l>That have been fifteen years about,</l>
+               <l>What some few years have quite brought out,</l>
+               <l>And <hi>Stafford</hi> he hath led the Van,</l>
+               <l>A Traytrous wretch and wicked man,</l>
+               <l>
+                  <hi>'Tis sure God hates such bloody things</hi>
+               </l>
+               <l>
+                  <hi>As Massacres,</hi> &amp;c.</l>
+            </lg>
+            <pb facs="tcp:198005:1"/>
+            <p>
+               <figure>
+                  <figDesc>two men bearing standards</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>a man seated in a chair</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>This is a Tenet of our Faith</l>
+               <l>No other Church in <hi>Europe</hi> hath,</l>
+               <l>Never to rest till we have done</l>
+               <l>The work the Devil sets us on,</l>
+               <l>Yet though in Plots our lives we spend,</l>
+               <l>They'l come to nothing in the End▪</l>
+               <l>
+                  <hi>For God doth hate such bloody things</hi>
+               </l>
+               <l>
+                  <hi>As Massacres, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Though all the Wits of <hi>France</hi> and <hi>Spain</hi>
+               </l>
+               <l>More Plots contrive. 'twill be in vain,</l>
+               <l>And let his holiness the Pope,</l>
+               <l>On whom we Papists fix our hope,</l>
+               <l>Spend all his dayes in such designs,</l>
+               <l>The Heavens will still find Countermines</l>
+               <l>
+                  <hi>And blast such wicked bloody things</hi>
+               </l>
+               <l>
+                  <hi>As Massacres,</hi> &amp;c,</l>
+            </lg>
+            <lg>
+               <l>The Protestants we plainly see,</l>
+               <l>Protections have of high degree,</l>
+               <l>That none can do them any wrong</l>
+               <l>VVho in their faith are firm &amp; strong,</l>
+               <l>But idle worshippers do fall</l>
+               <l>By hellish Plots, in deadly thrall.</l>
+               <l>
+                  <hi>For God doth blast such bloody things</hi>
+               </l>
+               <l>
+                  <hi>As Massacres, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then let us all renounce and fly</l>
+               <l>From this our strange Idolatry,</l>
+               <l>That our designs may prosperous be</l>
+               <l>Else 'tis in vain we plainly sée,</l>
+               <l>For who with heaven doth not advise</l>
+               <l>In vain are their conspiracies.</l>
+               <l>
+                  <hi>For God doth hate such bloody things</hi>
+               </l>
+               <l>
+                  <hi>As Massacres, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But we have stubborn hearts and do</l>
+               <l>Resolve against what's just &amp; true,</l>
+               <l>Since Popes can Absolution give</l>
+               <l>For our misdeeds we do believe</l>
+               <l>This makes us all less care to take</l>
+               <l>Though oft it makes the Actors quake,</l>
+               <l>
+                  <hi>For God doth hate such bloody things</hi>
+               </l>
+               <l>
+                  <hi>As massacres, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>'Tis strange to think what Friends we had</l>
+               <l>In <hi>England</hi> where our hearts now sad,</l>
+               <l>Were once with joy compleatly fill'd,</l>
+               <l>To think what blood would there be spill'd,</l>
+               <l>And in a moment we were lost,</l>
+               <l>Our Plots discover'd, all things crost,</l>
+               <l>
+                  <hi>For God doth hate such bloody things</hi>
+               </l>
+               <l>
+                  <hi>As Massacres, and killing Kings.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London printed for J. Conyers at the black Ravenin Duck-lane</p>
+         </div>
+      </back>
+   </text>
+</TEI>
